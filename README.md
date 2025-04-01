@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate.
 - 📫 Email : minalbenjamin82@gmail.com
 - 😄 Pronouns: she/her
-- 
 
 <!---
 MinalBenjamin/MinalBenjamin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
