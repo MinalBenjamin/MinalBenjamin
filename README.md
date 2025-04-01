@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MinalBenjamin .
+- 👋 Hi, I’m @MinalBenjamin.
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning frontend development.
 - 💞️ I’m looking to collaborate.
